@@ -41,4 +41,12 @@ Specifically, Model Farm can help developers accomplish the following:
 - Log in please refer to [Log in to Model Farm](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#log-in-to-model-farm)
 - View Model please refer to [View Models](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#view-models)
 - Download Model please refer to [Download Models](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#download-models)
+- Test model please refer to [Test Models](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#test-models)
 
+## Advanced Usage
+
+If you want to deploy your own fine-tuned model (already adapted on Model Farm), please refer to [Convert Fine-tuned Models](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#convert-fine-tuned-models)
+
+## Use Case
+
+- [Deploy YOLOv5s](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#deploy-yolov5s)
