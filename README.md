@@ -36,3 +36,9 @@ Specifically, Model Farm can help developers accomplish the following:
 - [AidLite SDK](https://docs.aidlux.com/en/guide/software/sdk/aidlite/aidlite-sdk)
 
 ## Quick Start
+
+- Hardware & Software Preparation please refer to [Preparation](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#preparation)
+- Log in please refer to [Log in to Model Farm](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#log-in-to-model-farm)
+- View Model please refer to [View Models](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#view-models)
+- Download Model please refer to [Download Models](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#download-models)
+
