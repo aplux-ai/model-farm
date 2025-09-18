@@ -50,3 +50,7 @@ If you want to deploy your own fine-tuned model (already adapted on Model Farm),
 ## Use Case
 
 - [Deploy YOLOv5s](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#deploy-yolov5s)
+
+## Contact Us
+
+- [contact APLUX](mailto:liuweibin@aidlux.com?cc=huangwenbo@aidlux.com) 
