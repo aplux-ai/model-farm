@@ -23,6 +23,13 @@ Specifically, Model Farm can help developers accomplish the following:
 
 ![](./imgs/model-farm-test-finetune-flowchat-en.png)
 
+## Support Matrix
+
+| Chip / Compute Unit | CPU | GPU | NPU |
+| ------------------- | --- | --- | --- |
+| QCS8550             | ✔   | ✔   | ✔   |
+| QCS6490             | ✔   | ✔   | ✔   |
+
 ## Recent updates
 
 📣 **2025.09.16**
