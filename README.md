@@ -31,6 +31,9 @@ Specifically, Model Farm can help developers accomplish the following:
 | QCS6490             | ✔   | ✔   | ✔   |
 
 ## Recent updates
+📣 **2025.10.10**
+- Support Falcon3-7B-Instruct (Preview Section)
+
 📣 **2025.09.30**
 - Support Qwen3-4B (Preview Section)
 - Support π0 (Preview Section)
