@@ -29,8 +29,28 @@ Specifically, Model Farm can help developers accomplish the following:
 | ------------------- | --- | --- | --- |
 | QCS8550             | ✔   | ✔   | ✔   |
 | QCS6490             | ✔   | ✔   | ✔   |
+| QCS8625             | 🚧   | 🚧   | 🚧   |
+| QCS9075             | 🚧   | 🚧  | 🚧   |
 
 ## Recent updates
+📣 **2026.1.16**
+**GenAI**
+- Support Qwen3-VL-4B (Preview Section)
+- Support Qwen3-0.6B (Preview Section)
+- Support Qwen3-1.7B (Preview Section)
+- Support Qwen3-8B (Preview Section)
+
+**Robot**
+- Support FoundationPose (Preview Section)
+- Support BEVFusion
+
+**General**
+- Support YOLOv11 Pose
+- Support HRNetFace
+- Support YOLO-R
+- Support Detectron2
+- Support DeepFilterNet (Preview Section)
+  
 📣 **2025.10.10**
 - Support Falcon3-7B-Instruct (Preview Section)
 
