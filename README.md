@@ -48,7 +48,7 @@ Specifically, Model Farm can help developers accomplish the following:
 - Support YOLO-R
 - Support Detectron2
 - Support DeepFilterNet (Preview Section)
-- Support EdgTAM
+- Support EdgeTAM
   
 📣 **2025.10.10**
 - Support Falcon3-7B-Instruct (Preview Section)
