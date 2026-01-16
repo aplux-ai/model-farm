@@ -25,12 +25,9 @@ Specifically, Model Farm can help developers accomplish the following:
 
 ## Support Matrix
 
-| Chip / Compute Unit | CPU | GPU | NPU |
-| ------------------- | --- | --- | --- |
-| QCS8550             | ✔   | ✔   | ✔   |
-| QCS6490             | ✔   | ✔   | ✔   |
-| QCS8625             | 🚧   | 🚧   | 🚧   |
-| QCS9075             | 🚧   | 🚧  | 🚧   |
+| QCS8550  | QCS6490 | QCS8625 | QCS9075 |
+| :---: | :---: | :---: | :---: |
+|  ✔  |  ✔  | 🚧   | 🚧  |
 
 ## Recent updates
 📣 **2026.1.16**
