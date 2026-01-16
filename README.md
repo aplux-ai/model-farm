@@ -34,6 +34,7 @@ Specifically, Model Farm can help developers accomplish the following:
 
 ## Recent updates
 📣 **2026.1.16**
+
 **GenAI**
 - Support Qwen3-VL-4B (Preview Section)
 - Support Qwen3-0.6B (Preview Section)
