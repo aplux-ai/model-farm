@@ -1,5 +1,5 @@
 ---
-name: "[Model Request] "
+name: "⚙️  Request New Models"
 about: Model Request
 title: ''
 labels: ''
