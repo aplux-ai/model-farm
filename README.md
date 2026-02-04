@@ -30,6 +30,9 @@ Specifically, Model Farm can help developers accomplish the following:
 |  ✔  |  ✔  | 🚧   | 🚧  |
 
 ## Recent updates
+📣 **2026.2.4**
+- support MMS-TTS (Preview Section)
+
 📣 **2026.1.16**
 
 **GenAI**
@@ -63,25 +66,28 @@ Specifically, Model Farm can help developers accomplish the following:
 ## Resources
 
 - [Model Farm](https://aiot.aidlux.com/en/models)
-- [Model Farm User Guide](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm)
-- [AI Model Optimizer (AIMO)](https://aimo.aidlux.com/#/login)
-- [AidLite SDK](https://docs.aidlux.com/en/guide/software/sdk/aidlite/aidlite-sdk)
+- [Model Farm User Guide](https://rhinopi.docs.aidlux.com/en/software/model-farm/model_farm_guide)
+- [AI Model Optimizer (AIMO)](https://rhinopi.docs.aidlux.com/en/software/aimo/aimo_guide)
+- [SDK for AI Models](https://rhinopi.docs.aidlux.com/en/software/ai-sdk/aidlite_guide)
+- [SDK for GenAI](https://rhinopi.docs.aidlux.com/en/software/genai-sdk/)
+- [SDK for Voice AI](https://rhinopi.docs.aidlux.com/en/software/aidvoice/aidvoice_guide)
 
-## Quick Start
+## Tutorials
 
-- Hardware & Software Preparation please refer to [Preparation](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#preparation)
-- Log in please refer to [Log in to Model Farm](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#log-in-to-model-farm)
-- View Model please refer to [View Models](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#view-models)
-- Download Model please refer to [Download Models](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#download-models)
-- Test model please refer to [Test Models](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#test-models)
-
-## Advanced Usage
-
-If you want to deploy your own fine-tuned model (already adapted on Model Farm), please refer to [Convert Fine-tuned Models](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#convert-fine-tuned-models)
+- [Generative AI Cases](https://rhinopi.docs.aidlux.com/en/software/tutorial/genai-dev/)
+- [Voice AI Cases](https://rhinopi.docs.aidlux.com/en/software/tutorial/voice-ai-dev/)
+- [Model Farm](https://rhinopi.docs.aidlux.com/en/software/tutorial/modelfarm/)
 
 ## Use Case
 
-- [Deploy YOLOv5s](https://docs.aidlux.com/en/guide/software/ai-platform-portal-modelFarm#deploy-yolov5s)
+- [Deploy YOLOv5s](https://rhinopi.docs.aidlux.com/en/software/model-farm/model_farm_guide#deploy-yolov5s)
+- [Deploy LLM](https://rhinopi.docs.aidlux.com/en/software/tutorial/genai-dev/llm_chat_aidgen)
+- [Deploy VLM](https://rhinopi.docs.aidlux.com/en/software/tutorial/genai-dev/vlm_chat_aidgen)
+- [Deploy ASR](https://rhinopi.docs.aidlux.com/en/software/tutorial/voice-ai-dev/)
+
+## New Model Request
+
+Please submit adaptation requests for new models via GitHub Issues. We will collect these requests and regularly select popular models for adaptation.
 
 ## Contact Us
 
