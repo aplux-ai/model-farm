@@ -67,6 +67,7 @@ Specifically, Model Farm can help developers accomplish the following:
 
 - [Model Farm](https://aiot.aidlux.com/en/models)
 - [Model Farm User Guide](https://rhinopi.docs.aidlux.com/en/software/model-farm/model_farm_guide)
+- [Access to Preview Models](https://rhinopi.docs.aidlux.com/en/software/tutorial/modelfarm/mms_guide)
 - [AI Model Optimizer (AIMO)](https://rhinopi.docs.aidlux.com/en/software/aimo/aimo_guide)
 - [SDK for AI Models](https://rhinopi.docs.aidlux.com/en/software/ai-sdk/aidlite_guide)
 - [SDK for GenAI](https://rhinopi.docs.aidlux.com/en/software/genai-sdk/)
