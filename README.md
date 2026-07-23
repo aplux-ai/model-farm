@@ -25,11 +25,27 @@ Specifically, Model Farm can help developers accomplish the following:
 
 ## Support Matrix
 
-| QCS8550  | QCS6490 | QCS8625 | QCS9075 |
-| :---: | :---: | :---: | :---: |
-|  ✔  |  ✔  | 🚧   | 🚧  |
+| QCS8550  | QCS6490 | QCS8625 | IQ9 |IQ8 |IQ10 |
+| :---: | :---: | :---: | :---: |:---: |:---: |
+|  ✔  |  ✔  |   ✔   | ✔  |✔  |✔  |
+
+## New Model Request
+
+Please submit adaptation requests for new models via GitHub Issues. We will collect these requests and regularly select popular models for adaptation.
 
 ## Recent updates
+
+📣 **2026.7.23**
+**GenAI**
+- support Hy-MT2-1.8B
+- support LocateAnything-3B (support MTP mode)
+**Robot**
+- support BEVFormer-Tiny
+- support GR00T-1.5
+- Optimize π₀.₅
+**General**
+- support PP-OCRv6
+
 📣 **2026.2.4**
 - support MMS-TTS (Preview Section)
 
@@ -73,22 +89,18 @@ Specifically, Model Farm can help developers accomplish the following:
 - [SDK for GenAI](https://rhinopi.docs.aidlux.com/en/software/genai-sdk/)
 - [SDK for Voice AI](https://rhinopi.docs.aidlux.com/en/software/aidvoice/aidvoice_guide)
 
-## Tutorials
+### Tutorials
 
 - [Generative AI Cases](https://rhinopi.docs.aidlux.com/en/software/tutorial/genai-dev/)
 - [Voice AI Cases](https://rhinopi.docs.aidlux.com/en/software/tutorial/voice-ai-dev/)
 - [Model Farm](https://rhinopi.docs.aidlux.com/en/software/tutorial/modelfarm/)
 
-## Use Case
+### Use Case
 
 - [Deploy YOLOv5s](https://rhinopi.docs.aidlux.com/en/software/model-farm/model_farm_guide#deploy-yolov5s)
 - [Deploy LLM](https://rhinopi.docs.aidlux.com/en/software/tutorial/genai-dev/llm_chat_aidgen)
 - [Deploy VLM](https://rhinopi.docs.aidlux.com/en/software/tutorial/genai-dev/vlm_chat_aidgen)
 - [Deploy ASR](https://rhinopi.docs.aidlux.com/en/software/tutorial/voice-ai-dev/)
-
-## New Model Request
-
-Please submit adaptation requests for new models via GitHub Issues. We will collect these requests and regularly select popular models for adaptation.
 
 ## Contact Us
 
