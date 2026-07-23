@@ -84,24 +84,8 @@ Please submit adaptation requests for new models via GitHub Issues. We will coll
 
 - [Model Farm](https://aiot.aidlux.com/en/models)
 - [Model Farm User Guide](https://rhinopi.docs.aidlux.com/en/software/model-farm/model_farm_guide)
-- [Access to Preview Models](https://rhinopi.docs.aidlux.com/en/software/tutorial/modelfarm/mms_guide)
 - [AI Model Optimizer (AIMO)](https://rhinopi.docs.aidlux.com/en/software/aimo/aimo_guide)
-- [SDK for AI Models](https://rhinopi.docs.aidlux.com/en/software/ai-sdk/aidlite_guide)
-- [SDK for GenAI](https://rhinopi.docs.aidlux.com/en/software/genai-sdk/)
-- [SDK for Voice AI](https://rhinopi.docs.aidlux.com/en/software/aidvoice/aidvoice_guide)
-
-### Tutorials
-
-- [Generative AI Cases](https://rhinopi.docs.aidlux.com/en/software/tutorial/genai-dev/)
-- [Voice AI Cases](https://rhinopi.docs.aidlux.com/en/software/tutorial/voice-ai-dev/)
-- [Model Farm](https://rhinopi.docs.aidlux.com/en/software/tutorial/modelfarm/)
-
-### Use Case
-
-- [Deploy YOLOv5s](https://rhinopi.docs.aidlux.com/en/software/model-farm/model_farm_guide#deploy-yolov5s)
-- [Deploy LLM](https://rhinopi.docs.aidlux.com/en/software/tutorial/genai-dev/llm_chat_aidgen)
-- [Deploy VLM](https://rhinopi.docs.aidlux.com/en/software/tutorial/genai-dev/vlm_chat_aidgen)
-- [Deploy ASR](https://rhinopi.docs.aidlux.com/en/software/tutorial/voice-ai-dev/)
+- [Tutorials](https://rhinopi.docs.aidlux.com/en/software/tutorial/)
 
 ## Contact Us
 
