@@ -36,14 +36,17 @@ Please submit adaptation requests for new models via GitHub Issues. We will coll
 ## Recent updates
 
 📣 **2026.7.23**
+
 **GenAI**
 - support Hy-MT2-1.8B
 - support LocateAnything-3B (support MTP mode)
 - support MiniCPM5-1B
+
 **Robot**
 - support BEVFormer-Tiny
 - support GR00T-1.5
 - Optimize π₀.₅
+
 **General**
 - support PP-OCRv6
 
